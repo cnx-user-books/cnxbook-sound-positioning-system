@@ -1,0 +1,54 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11463</md:content-id>
+  <md:title>Sound Positioning System</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>b2adabc7-e89c-4d0f-a873-9642bbcaa898</md:uuid>
+<md:slug>sound-positioning-system</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m45331"/>
+        
+      
+    
+    
+      <col:module document="m45334"/>
+        
+      
+    
+    
+      <col:module document="m45332"/>
+        
+      
+    
+    
+      <col:module document="m45335"/>
+        
+      
+    
+    
+      <col:module document="m45333"/>
+        
+      
+    
+    
+      <col:module document="m45330"/>
+        
+      
+    
+  </col:content>
+</col:collection>
